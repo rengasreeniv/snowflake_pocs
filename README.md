@@ -1,2 +1,2 @@
 # snowflake_pocs
-Snowflake POCs
+My personal Snowflake sql scripts, python scripts
